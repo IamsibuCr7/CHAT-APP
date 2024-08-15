@@ -27,10 +27,9 @@ https://chaattyy.netlify.app/login
 
 ### Testing Account
 username: Lenny Connolly  
-password: 12345678  
 
 username: Rachael Holloway  
-password: 12345678  
+ 
 
 ### Screenshots
 **Chat (Light mode)**
